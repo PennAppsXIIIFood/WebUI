@@ -1,0 +1,841 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<root>
+<count>6408</count>
+<next>
+http://api.everyblock.com/content/fresno/topnews/?token=f8d489011cc9cdb151914b80b82725c6485f0966&page=2
+</next>
+<previous/>
+<results>
+<list-item>
+<id>35742</id>
+<title>Ginza Asian Bistro reviewed by Keith M.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Ginza Asian Bistro, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.851696</latitude>
+<longitude>-119.8064303</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Keith M.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>CyfjR3icxmkFAKcDNkR0kw</review_id>
+<stars>5</stars>
+<business_name>Ginza Asian Bistro</business_name>
+<excerpt>
+We were up in Fresno wanted sushi so we tried this place out the food was very good. The family had hibachi and loved it I had a couple sushi rolls and they were very good the place is very nice and…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-ginza-asian-bistro-reviewed-keith-m-35742/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35743</id>
+<title>
+John's Incredible Pizza Company reviewed by Marie T.
+</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>John's Incredible Pizza Company, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8384932895</latitude>
+<longitude>-119.755804539</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Marie T.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>-S5uIv3kbKthTfL1epWaVw</review_id>
+<stars>1</stars>
+<business_name>John's Incredible Pizza Company</business_name>
+<excerpt>
+This place is absolutely disgusting!!!! The buffet area is an absolute mess. There is food everywhere and tongs just laying out being touched by every dirty hand. Can you say food poisoning waiting…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-johns-incredible-pizza-company-reviewed-marie-t-35743/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35744</id>
+<title>Nee-Hai Bonsai reviewed by Josh R.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Nee-Hai Bonsai, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.7940555</latitude>
+<longitude>-119.8493269</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Josh R.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>OBfoUdrk9EJKSsUaKjyGNg</review_id>
+<stars>5</stars>
+<business_name>Nee-Hai Bonsai</business_name>
+<excerpt>
+Grey was really helpful and informative, very beginner friendly atmosphere. There was no pressure to buy and I was free to browse the whole nursery.
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-nee-hai-bonsai-reviewed-josh-r-35744/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35745</id>
+<title>Red Robin Gourmet Burgers reviewed by Judith S.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Red Robin Gourmet Burgers, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8079949</latitude>
+<longitude>-119.6980955</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Judith S.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>aUGBwhwEgYrrQl9TngZiSA</review_id>
+<stars>1</stars>
+<business_name>Red Robin Gourmet Burgers</business_name>
+<excerpt>
+If you want to spend 80 minutes at a table while your party consists of only three adults and 1 child; if you want to wait 35 minutes for your appetizer and an hour for your meals; if you want to get…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-red-robin-gourmet-burgers-reviewed-judith-s-35745/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35746</id>
+<title>Nothing Bundt Cakes - Fresno reviewed by Sam S.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Nothing Bundt Cakes - Fresno, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.837698</latitude>
+<longitude>-119.7258987</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Sam S.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>wQv1fFYfqq71sI1InVacIg</review_id>
+<stars>5</stars>
+<business_name>Nothing Bundt Cakes - Fresno</business_name>
+<excerpt>
+Omg!!!! This place is heaven in circle form!!! So I was watching this place for a while and totally thought it was just another bakery that'd have mediocre cupcakes (yes in bundt form but obvi part…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-nothing-bundt-cakes-fresno-reviewed-sam-s-35746/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35747</id>
+<title>Papi's Mex Grill reviewed by Linda K.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Papi's Mex Grill, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8669418</latitude>
+<longitude>-119.7551161</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Linda K.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>D9-DDaUUlU7Bu0U03zeEtg</review_id>
+<stars>5</stars>
+<business_name>Papi's Mex Grill</business_name>
+<excerpt>
+Taco Salad was great and my hubby loves the shredded beef in a enchilada & taco!!
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-papis-mex-grill-reviewed-linda-k-35747/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35748</id>
+<title>
+Peeve's Public House & Local Market reviewed by James C.
+</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Peeve's Public House & Local Market, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.7364982</latitude>
+<longitude>-119.793216</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>James C.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>Q6mU1vy4kwDmXzSvBgY4xw</review_id>
+<stars>1</stars>
+<business_name>Peeve's Public House & Local Market</business_name>
+<excerpt>
+When I visited yesterday, I was expecting a place that had a hipster or dive bar vibe. The dive bar vibe exists and my visit was on a Friday around 6 pm and had a full line to the door! Of course I…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-peeves-public-house-local-market-reviewed-james-c-35748/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35749</id>
+<title>
+Vino & Friends Wine Store & Bistro reviewed by Lili D.
+</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Vino & Friends Wine Store & Bistro, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8669913169</latitude>
+<longitude>-119.7549344</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Lili D.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>C6Wk35Pl87CcWR0E9NfvMA</review_id>
+<stars>3</stars>
+<business_name>Vino & Friends Wine Store & Bistro</business_name>
+<excerpt>
+I think they are lovely! Great selection of wine and some tasty food too! More live music, stay open longer and I will come often! I am happy I have this place in my neighborhood... Ok, here is…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-vino-friends-wine-store-bistro-reviewed-lili-d-35749/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35750</id>
+<title>Strut Hair Solutions reviewed by Stacy S.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Strut Hair Solutions, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8353639</latitude>
+<longitude>-119.7912168</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Stacy S.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>fdAufuquK31HtNcT5I0eOA</review_id>
+<stars>5</stars>
+<business_name>Strut Hair Solutions</business_name>
+<excerpt>
+Carol was very helpful! She helped me find the perfect hair for my wedding day! Very knowledgeable.
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-strut-hair-solutions-reviewed-stacy-s-35750/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35751</id>
+<title>Shila Korean BBQ reviewed by Liz T.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Shila Korean BBQ, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8381717361</latitude>
+<longitude>-119.695174482</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Liz T.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>akvoI0quoMo2ainol6uigQ</review_id>
+<stars>5</stars>
+<business_name>Shila Korean BBQ</business_name>
+<excerpt>
+Went here with my boyfriend during lunch. The wait was about 15-20min long from the time we got there to the time we got seated. Pretty good since the line was almost out the door. After being…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-shila-korean-bbq-reviewed-liz-t-35751/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35752</id>
+<title>Seven Bar & Grill reviewed by Mary G.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Seven Bar & Grill, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.809139</latitude>
+<longitude>-119.708638</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Mary G.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>ZIzCVz2boiP79NNNB5c1Vg</review_id>
+<stars>4</stars>
+<business_name>Seven Bar & Grill</business_name>
+<excerpt>
+We're regulars at Seven for Saturday morning breakfast. Diane is our waitress, and she has our order memorized and puts it in when we sit down. Good basic breakfast, good prices...we're definitely…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-seven-bar-grill-reviewed-mary-g-35752/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35753</id>
+<title>Jus' Jo's Country Kitchen reviewed by Jeff C.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Jus' Jo's Country Kitchen, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.808666</latitude>
+<longitude>-119.725381</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Jeff C.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>rHMrtY9E9nVSD95p2De2NA</review_id>
+<stars>5</stars>
+<business_name>Jus' Jo's Country Kitchen</business_name>
+<excerpt>
+Great breakfast and outstanding service. My wife and I have been going here for several years and never been disappointed. We have tried other spots in Clovis/Fresno and we always return here. They…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-jus-jos-country-kitchen-reviewed-jeff-c-35753/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35754</id>
+<title>Clovis Fit Body Boot Camp reviewed by John L.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Clovis Fit Body Boot Camp, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8385034</latitude>
+<longitude>-119.6995091</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>John L.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>BDavsTAyX9w1VlUSZEtZlA</review_id>
+<stars>5</stars>
+<business_name>Clovis Fit Body Boot Camp</business_name>
+<excerpt>
+I love this place!!! I have mentioned the great workouts to many of my friends an the owner has a great meal plan to help me lose the weight an feel great. Much better than the gym down the street I…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-clovis-fit-body-boot-camp-reviewed-john-l-35754/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35755</id>
+<title>Institute of Technology reviewed by Bob L.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Institute of Technology, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8368156355</latitude>
+<longitude>-119.723121274</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Bob L.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>omZ252AyDhXIV9_qLo_ObA</review_id>
+<stars>5</stars>
+<business_name>Institute of Technology</business_name>
+<excerpt>
+Institute of Technology changed my life. I went to school there for 15 months and ended up with a degree in Human Resource Management and now am 5 years into a successful career. The staff and faculty…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-institute-technology-reviewed-bob-l-35755/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35756</id>
+<title>Gateway Ice Center reviewed by Maribel V.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Gateway Ice Center, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.7732521</latitude>
+<longitude>-119.8443829</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Maribel V.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>pUhXnsFE1WYL6PwOOt0vmA</review_id>
+<stars>5</stars>
+<business_name>Gateway Ice Center</business_name>
+<excerpt>
+I was visiting family and wanted to take them somewhere fun. First time ice-skating and we all had a blast! Above all, the staff was so courteous and helpful (a big plus for me). Definitely recommend…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-gateway-ice-center-reviewed-maribel-v-35756/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35757</id>
+<title>Clovis Fit Body Boot Camp reviewed by Gary P.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Clovis Fit Body Boot Camp, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8385034</latitude>
+<longitude>-119.6995091</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Gary P.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>sd4_4jcbGQnm8zNxH3NoGg</review_id>
+<stars>5</stars>
+<business_name>Clovis Fit Body Boot Camp</business_name>
+<excerpt>
+Wow this is a new place in Clovis and what a great workout for my wife and myself, this is sooo much better that the traditional gym!! And Mike the owner has a diet plan that will help you lose the…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-clovis-fit-body-boot-camp-reviewed-gary-p-35757/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35758</id>
+<title>Donut Fantasy reviewed by Nick B.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Donut Fantasy, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.822345</latitude>
+<longitude>-119.824826</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Nick B.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>RuZGz5BzdLtnu8qiDVIkqw</review_id>
+<stars>5</stars>
+<business_name>Donut Fantasy</business_name>
+<excerpt>
+We loved the maple bacon donut ( when pigs fly) and were impressed with the unique variety of the selection. The kool aid donut was fruity and delicious, and the cherry and apple fritters were good.…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-donut-fantasy-reviewed-nick-b-35758/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35759</id>
+<title>Silver Creek Builders Inc reviewed by Paul C.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Silver Creek Builders Inc, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.841612</latitude>
+<longitude>-119.639648</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Paul C.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>wD_8tHVCQ4lfm5T41fQCsg</review_id>
+<stars>5</stars>
+<business_name>Silver Creek Builders Inc</business_name>
+<excerpt>
+Great company to do business with. My bathroom remodel turned out wonderful. Everybody was so neat, clean and nice to work with. Thank you
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-silver-creek-builders-inc-reviewed-paul-c-35759/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35760</id>
+<title>Country Waffles reviewed by Lola H.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Country Waffles, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8396877</latitude>
+<longitude>-119.7560573</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Lola H.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>AsQsXV11CKJWoocF3ua-Mw</review_id>
+<stars>5</stars>
+<business_name>Country Waffles</business_name>
+<excerpt>
+Staff was friendly. I felt like my own grandma was taking care of me. The waffle was delicious and the crepe was sooooo yummy! I'm definitely coming back here. There's not one thing that I didn't…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-country-waffles-reviewed-lola-h-35760/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35761</id>
+<title>Acme Chem Dry reviewed by Stuart M.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Acme Chem Dry, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8643967</latitude>
+<longitude>-119.758339</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Stuart M.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>jVFwSixqacE8zNzrYPCrtg</review_id>
+<stars>5</stars>
+<business_name>Acme Chem Dry</business_name>
+<excerpt>
+Next day service. Professional. Affordable. Great job!
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-acme-chem-dry-reviewed-stuart-m-35761/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35762</id>
+<title>Panera Bread reviewed by Kris C.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Panera Bread, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8077556892</latitude>
+<longitude>-119.692697525</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Kris C.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>VbP1crSJ9pTiHe3JQntBAA</review_id>
+<stars>2</stars>
+<business_name>Panera Bread</business_name>
+<excerpt>
+Like others have posted, Panera is pretty hit and miss. Panera has good coffee and pastries...their sandwiches; however, can definitely use some help. We ordered a bacon turkey bravo sandwich and it…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-panera-bread-reviewed-kris-c-35762/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35763</id>
+<title>Batter Up Pancakes reviewed by Manal H.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Batter Up Pancakes, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8525455</latitude>
+<longitude>-119.7582005</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Manal H.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>gJmZ-rNWQ80n8nFJzsyqhQ</review_id>
+<stars>5</stars>
+<business_name>Batter Up Pancakes</business_name>
+<excerpt>
+I love this place! My favorite breakfast spot! Best coffee in town!! And the food is amazing!y I like the Christina breakfast burrito the most. It's worth the wait
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-batter-up-pancakes-reviewed-manal-h-35763/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35764</id>
+<title>Goin' Postal reviewed by Dave L.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Goin' Postal, Clovis</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8070788</latitude>
+<longitude>-119.6803222</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Dave L.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>xnxNSN5y6V2-OqQVCMiT7A</review_id>
+<stars>4</stars>
+<business_name>Goin' Postal</business_name>
+<excerpt>
+I really don't understand the past reviews here. I have been coming here for over a year now and have used everything from local and international shipping as well as the notary services . This is…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-goin-postal-reviewed-dave-l-35764/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35765</id>
+<title>Fresno Breakfast House reviewed by Justin H.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Fresno Breakfast House, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.822664</latitude>
+<longitude>-119.828222</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Justin H.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>Srqv1vsIuwKBCfoSC1706Q</review_id>
+<stars>5</stars>
+<business_name>Fresno Breakfast House</business_name>
+<excerpt>
+I went here this morning for breakfast. We were seated right away and the server was on top of his game. Always made sure we had what we needed. Great place to take the family for a Saturday morning…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-fresno-breakfast-house-reviewed-justin-h-35765/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+<list-item>
+<id>35766</id>
+<title>Corky's Cuts 4 Kids reviewed by Becky Z.</title>
+<embed/>
+<pub_date>2016-01-24 02:00:00+00:00</pub_date>
+<item_date>2016-01-23</item_date>
+<location_name>Corky's Cuts 4 Kids, Fresno</location_name>
+<location_coordinates>
+<list-item>
+<latitude>36.8704218146</latitude>
+<longitude>-119.76733974</longitude>
+</list-item>
+</location_coordinates>
+<attributes>
+<username>Becky Z.</username>
+<source>2</source>
+<source_name>Yelp</source_name>
+<review_id>5_9wpQCGDlai1HCTLCicnA</review_id>
+<stars>5</stars>
+<business_name>Corky's Cuts 4 Kids</business_name>
+<excerpt>
+This was my daughters very first hair cut, at almost 3 and a half. It was the best experience, better then I could have even hoped for. Vanessa our stylist was wonderful with her and even with dealing…
+</excerpt>
+</attributes>
+<url>
+http://fresno.everyblock.com/business-reviews/jan23-corkys-cuts-4-kids-reviewed-becky-z-35766/
+</url>
+<poster_name/>
+<schema>business-reviews</schema>
+<reaction_score>0</reaction_score>
+<reaction_count>0</reaction_count>
+<comment_count>0</comment_count>
+</list-item>
+</results>
+</root>
