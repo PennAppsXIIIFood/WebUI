@@ -1,0 +1,245 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+	<head>
+		<title>FoodMap</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        
+        <!--  jquery -->
+<script type="text/javascript" src="../nav/js/jquery.js"></script>
+        <!-- nav script -->
+<script src="../nav/js/nav.js" type="text/javascript"></script>
+
+<!-- demo scripts -->
+
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script>
+window.onload = function () {
+	var styles = [
+	{
+		featureType: 'water', // set the water color
+		elementType: 'geometry.fill', // apply the color only to the fill
+		stylers: [
+			{ color: '#adc9b8' }
+		]
+	},{
+		featureType: 'landscape.natural', // set the natural landscape
+		elementType: 'all',
+		stylers: [
+			{ hue: '#809f80' },
+			{ lightness: -35 }
+		]
+	}
+	,{
+		featureType: 'poi', // set the point of interest
+		elementType: 'geometry',
+		stylers: [
+			{ hue: '#f9e0b7' },
+			{ lightness: 30 }
+		]
+	},{
+		featureType: 'road', // set the road
+		elementType: 'geometry',
+		stylers: [
+			{ hue: '#d5c18c' },
+			{ lightness: 14 }
+		]
+	},{
+		featureType: 'road.local', // set the local road
+		elementType: 'all',
+		stylers: [
+			{ hue: '#ffd7a6' },
+			{ saturation: 100 },
+			{ lightness: -12 }
+		]
+	}
+];
+
+var options = {
+	mapTypeControlOptions: {
+		mapTypeIds: ['Styled']
+	},
+	center: new google.maps.LatLng(-7.245217594087794, 112.74455556869509),
+	zoom: 16,
+	disableDefaultUI: true,	
+	mapTypeId: 'Styled'
+};
+var div = document.getElementById('surabaya');
+var map = new google.maps.Map(div, options);
+var styledMapType = new google.maps.StyledMapType(styles, { name: 'Styled' });
+map.mapTypes.set('Styled', styledMapType);
+}
+</script>
+    
+        
+        
+	</head>
+	<body class="index">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				
+
+			<!-- Banner -->
+				<section id="banner">
+
+					<!--
+						".inner" is set up as an inline-block so it automatically expands
+						in both directions to fit whatever's inside it. This means it won't
+						automatically wrap lines, so be sure to use line breaks where
+						appropriate (<br />).
+					-->
+					<div class="inner">
+
+						<header>
+							<h2>FoodMap</h2>
+						</header>
+						<p>This is <strong>FoodMap</strong>, a free
+						<br />
+						FoodMap
+						<br />
+						by <a href="https://github.com/PennAppsXIIIFood">FoodMap</a>.</p>
+						<footer>
+							<ul class="buttons vertical">
+								<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+							</ul>
+						</footer>
+
+					</div>
+
+				</section>
+
+			<!-- Main -->
+				<article id="main">
+
+					<header class="special container">
+						<h2>Find stores in your neighborhood whose food has reached the "sell by" date. <strong>FoodMap</strong> shows you which food items they are getting rid of and navigates you to their location.
+						<br />
+						</h2>
+						<p>Turns out <strong>FoodMap</strong> helps prevents waste and is a great way for those in a low tax bracket to get good food for a free or discounted price.
+						<br />
+						It also addresses the need for grocery stores to keep a better online database of when they stock food and the sell-by dates on their food.
+						<br />
+						Created using the EveryBlock API and the Google Maps API.</p>
+					</header>
+
+					<!-- EveryBlock map showing nearby participating restaurants and grocery stores -->
+						<section class="wrapper style2 container special-alt">
+							
+                                <section>
+                                    
+                                   
+										
+									</section>
+								
+							
+						</section>
+
+					<!-- Food selection in chosen store/restaurant -->
+						<section class="wrapper style1 container special">
+							<div class="row">
+								<div class="4u 12u(narrower)">
+
+									<section>
+                                        
+										<header>
+											<h3>Fruit</h3>
+										</header>
+										<p>Apples</p>
+									</section>
+
+								</div>
+								<div class="4u 12u(narrower)">
+
+									<section>
+										
+										<header>
+											<h3>Vegetables</h3>
+										</header>
+										<p>Carrots</p>
+									</section>
+
+								</div>
+								<div class="4u 12u(narrower)">
+
+									<section>
+										
+										<header>
+											<h3>Bread</h3>
+										</header>
+										<p>Pita</p>
+									</section>
+
+								</div>
+							</div>
+						</section>
+
+					<!-- Launch Google Maps navigation -->
+						<section class="wrapper style3 container special">
+
+							<header class="major">
+								<h2>Navigate to the food</h2>
+							</header>
+
+							<div class="row">
+				
+								<div class="6u 12u(narrower)">
+
+									<section>
+										 <div class="demo-wrapper">
+	<div id="surabaya"></div>
+</div>
+									</section>
+
+								</div>
+							</div>
+						
+
+
+						</section>
+
+				</article>
+
+			<!-- More information and links -->
+				<section id="cta">
+
+					<header>
+						<h2>Ready to learn more?</h2>
+						<p>The link below will tell you more about our dev team and the inspiration for our project</p>
+					</header>
+					
+
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+
+					<ul class="icons">
+						<li><a href="https://github.com/PennAppsXIIIFood" class="icon circle fa-github"><span class="label">Github</span></a></li>
+					</ul>
+
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+
+	</body>
+</html>
