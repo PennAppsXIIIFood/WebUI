@@ -1814,11 +1814,13 @@
 
 area + span {
     position: relative;
+    display: none;
 }
 
 area:hover + span{
     position:absolute;
     z-index: 99;
+    display: block;
 }
 
 

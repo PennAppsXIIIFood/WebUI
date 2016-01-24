@@ -10,11 +10,11 @@ click the divs where the pins on the map
 to show what foods are available
 **/
 $(document).ready(function(){
-    $("#hide").click(function(){
-        $("p").hide();
+    $(".one").click(function(){
+        $(".fruit", ".vegetables").hide();
     });
-    $("#show").click(function(){
-        $("p").show();
+    $(".two").click(function(){
+        $(".fruit").show();
     });
 });
 
