@@ -1826,9 +1826,23 @@ area:hover + span{
 }
 
 
-.fbh3 {
+.fbh {
     width: 100%;
-    
+    z-index: 1;
+}
+
+.bup {
+    width: 100%;
+    z-index: 2;
+    display: none;
+}
+
+.overlay2 {
+    display: none;
+}
+
+.overlay2:target {
+    display: block;
 }
 
 /* Icon */
