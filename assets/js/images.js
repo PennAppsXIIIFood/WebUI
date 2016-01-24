@@ -9,14 +9,19 @@ At least not in the time we had available
 click the divs where the pins on the map 
 to show what foods are available
 **/
-$(document).ready(function(){
-    $(".one").click(function(){
-        $(".fruit", ".vegetables").hide();
-    });
-    $(".two").click(function(){
-        $(".fruit").show();
-    });
-});
+
+    
+
 
 
     
+//$(document).ready(function(){
+//    $(".one").click(function(){
+//        $(".fruit", ".vegetables").hide();
+//    });
+//    $(".two").click(function(){
+//        $(".fruit").show();
+//    });
+//
+//
+//});
