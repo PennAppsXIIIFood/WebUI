@@ -1818,9 +1818,11 @@ area + span {
 }
 
 area:hover + span{
-    position:absolute;
-    z-index: 99;
+    position:relative;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 
